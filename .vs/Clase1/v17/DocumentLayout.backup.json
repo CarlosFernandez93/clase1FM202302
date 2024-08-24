@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\todo lo relacionado al primer registro.net\\Clase1 (1)\\Clase1 (1)\\Clase1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17952E52-4132-4373-8628-E8F51378FDF9}|Clase1\\Clase1.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\todo lo relacionado al primer registro.net\\clase1 (1)\\clase1 (1)\\clase1\\clase1\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17952E52-4132-4373-8628-E8F51378FDF9}|Clase1\\Clase1.csproj|solutionrelative:clase1\\views\\empleado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17952E52-4132-4373-8628-E8F51378FDF9}|Clase1\\Clase1.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\todo lo relacionado al primer registro.net\\clase1 (1)\\clase1 (1)\\clase1\\clase1\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17952E52-4132-4373-8628-E8F51378FDF9}|Clase1\\Clase1.csproj|solutionrelative:clase1\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17952E52-4132-4373-8628-E8F51378FDF9}|Clase1\\Clase1.csproj|c:\\users\\carlos fernandez\\onedrive\\documents\\2024 ciclo 2\\todo lo relacionado al primer registro.net\\clase1 (1)\\clase1 (1)\\clase1\\clase1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17952E52-4132-4373-8628-E8F51378FDF9}|Clase1\\Clase1.csproj|solutionrelative:clase1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\todo lo relacionado al primer registro.net\\Clase1 (1)\\Clase1 (1)\\Clase1\\Clase1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Clase1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\todo lo relacionado al primer registro.net\\Clase1 (1)\\Clase1 (1)\\Clase1\\Clase1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Clase1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T23:04:27.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\todo lo relacionado al primer registro.net\\Clase1 (1)\\Clase1 (1)\\Clase1\\Clase1\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Clase1\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\todo lo relacionado al primer registro.net\\Clase1 (1)\\Clase1 (1)\\Clase1\\Clase1\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "Clase1\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T22:24:53.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\todo lo relacionado al primer registro.net\\Clase1 (1)\\Clase1 (1)\\Clase1\\Clase1\\Views\\Empleado\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clase1\\Views\\Empleado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Fernandez\\OneDrive\\Documents\\2024 CICLO 2\\todo lo relacionado al primer registro.net\\Clase1 (1)\\Clase1 (1)\\Clase1\\Clase1\\Views\\Empleado\\Index.cshtml",
+              "RelativeToolTip": "Clase1\\Views\\Empleado\\Index.cshtml",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAUwLcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T22:00:10.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
